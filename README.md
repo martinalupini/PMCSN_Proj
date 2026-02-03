@@ -17,7 +17,7 @@ The loan process is modeled as a queueing network composed of:
 
 Each loan request is modeled as a job flowing through the system with probabilistic routing based on empirical data.
 
-![Conceptual model](im/model.png)
+![Conceptual model](files/base.svg)
 
 
 ---
