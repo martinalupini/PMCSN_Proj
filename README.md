@@ -49,7 +49,7 @@ This redesign improves system efficiency while keeping **the same staff and capa
 
 - Higher acceptance rate in automatic scoring (from 42% to 82%)
 - ~23 human working days saved per monthimes
-- - No additional staff or system capacity required
+- No additional staff or system capacity required
 
 
 
